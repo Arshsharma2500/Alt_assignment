@@ -1,0 +1,147 @@
+{
+    "data": [
+        {
+            "Person_Details": [
+                {
+                    "id": 1,
+                    "image": "./assets/addicon.png",
+                    "Name": "Saurav Singh",
+                    "gmail": "saurav@gmail.com",
+                    "result": "78%"
+                },
+                {
+                    "id": 2,
+                    "image": "",
+                    "Name": "Arsh Kumar",
+                    "gmail": "krsask7061@gmail.com",
+                    "result": "72%"
+                },
+                {
+                    "id": 3,
+                    "image": "",
+                    "Name": "Krish patel",
+                    "gmail": "krish@gmail.com",
+                    "result": "64%"
+                },
+                {
+                    "id": 4,
+                    "image": "",
+                    "Name": "Prince Gupta",
+                    "gmail": "prct@gmail.com",
+                    "result": "51%"
+                },
+                {
+                    "id": 5,
+                    "image": "",
+                    "Name": "Akash Raj",
+                    "gmail": "akash@gmail.com",
+                    "result": "64%"
+                },
+                {
+                    "id": 6,
+                    "image": "",
+                    "Name": "Raju sharma",
+                    "gmail": "raju@gmail.com",
+                    "result": "54%"
+                }
+            ],
+            "Profile_p1": [
+                {
+                    "id": 1,
+                    "image": "",
+                    "Name": "Saurav Singh",
+                    "gmail": "saurav@gmail.com",
+                    "result": "78%",
+                    "Behavioural": 9,
+                    "Commnication": 8,
+                    "Situtation handlin": 6,
+                    "About": "leroeisndfksfnxcljvnsddpfiwneidakdnl sdonfwin sdofinkdsndwon fiands",
+                    "Expreience": "sdfoiwefndskvndslkv xcvoinds foicvn sdofinwe advosdnf caspdfimds",
+                    "Hobbies": "sdfoisdnvkv cxovixznv csdofinzkxc sodfinkzxl cfsdoinzxck  svocjnlwsk",
+                    "Introduction": "fsdoinasdfildskfm sdovjndsfldfk sdovnlzxkc sdfodflkdf sdfoknfd"
+                }
+            ],
+            "Profile_p2": [
+                {
+                    "id": 2,
+                    "image": "",
+                    "Name": "Arsh Kumar",
+                    "gmail": "krsask7061@gmail.com",
+                    "result": "72%",
+                    "Behavioural": 9,
+                    "Commnication": 8,
+                    "Situtation handlin": 6,
+                    "About": "leroeisndfksfnxcljvnsddpfiwneidakdnl sdonfwin sdofinkdsndwon fiands",
+                    "Expreience": "sdfoiwefndskvndslkv xcvoinds foicvn sdofinwe advosdnf caspdfimds",
+                    "Hobbies": "sdfoisdnvkv cxovixznv csdofinzkxc sodfinkzxl cfsdoinzxck  svocjnlwsk",
+                    "Introduction": "fsdoinasdfildskfm sdovjndsfldfk sdovnlzxkc sdfodflkdf sdfoknfd"
+                }
+            ],
+            "Profile_p3": [
+                {
+                    "id": 3,
+                    "image": "",
+                    "Name": "Krish patel",
+                    "gmail": "krish@gmail.com",
+                    "result": "64%",
+                    "Behavioural": 9,
+                    "Commnication": 8,
+                    "Situtation handlin": 6,
+                    "About": "leroeisndfksfnxcljvnsddpfiwneidakdnl sdonfwin sdofinkdsndwon fiands",
+                    "Expreience": "sdfoiwefndskvndslkv xcvoinds foicvn sdofinwe advosdnf caspdfimds",
+                    "Hobbies": "sdfoisdnvkv cxovixznv csdofinzkxc sodfinkzxl cfsdoinzxck  svocjnlwsk",
+                    "Introduction": "fsdoinasdfildskfm sdovjndsfldfk sdovnlzxkc sdfodflkdf sdfoknfd"
+                }
+            ],
+            "Profile_p4": [
+                {
+                    "id": 4,
+                    "image": "",
+                    "Name": "Prince Gupta",
+                    "gmail": "prct@gmail.com",
+                    "result": "51%",
+                    "Behavioural": 9,
+                    "Commnication": 8,
+                    "Situtation handlin": 6,
+                    "About": "leroeisndfksfnxcljvnsddpfiwneidakdnl sdonfwin sdofinkdsndwon fiands",
+                    "Expreience": "sdfoiwefndskvndslkv xcvoinds foicvn sdofinwe advosdnf caspdfimds",
+                    "Hobbies": "sdfoisdnvkv cxovixznv csdofinzkxc sodfinkzxl cfsdoinzxck  svocjnlwsk",
+                    "Introduction": "fsdoinasdfildskfm sdovjndsfldfk sdovnlzxkc sdfodflkdf sdfoknfd"
+                }
+            ],
+            "Profile_p5": [
+                {
+                    "id": 5,
+                    "image": "",
+                    "Name": "Akash Raj",
+                    "gmail": "akash@gmail.com",
+                    "result": "64%",
+                    "Behavioural": 9,
+                    "Commnication": 8,
+                    "Situtation handlin": 6,
+                    "About": "leroeisndfksfnxcljvnsddpfiwneidakdnl sdonfwin sdofinkdsndwon fiands",
+                    "Expreience": "sdfoiwefndskvndslkv xcvoinds foicvn sdofinwe advosdnf caspdfimds",
+                    "Hobbies": "sdfoisdnvkv cxovixznv csdofinzkxc sodfinkzxl cfsdoinzxck  svocjnlwsk",
+                    "Introduction": "fsdoinasdfildskfm sdovjndsfldfk sdovnlzxkc sdfodflkdf sdfoknfd"
+                }
+            ],
+            "Profile_p6": [
+                {
+                    "id": 6,
+                    "image": "",
+                    "Name": "Raju sharma",
+                    "gmail": "raju@gmail.com",
+                    "result": "54%",
+                    "Behavioural": 9,
+                    "Commnication": 8,
+                    "Situtation handlin": 6,
+                    "About": "leroeisndfksfnxcljvnsddpfiwneidakdnl sdonfwin sdofinkdsndwon fiands",
+                    "Expreience": "sdfoiwefndskvndslkv xcvoinds foicvn sdofinwe advosdnf caspdfimds",
+                    "Hobbies": "sdfoisdnvkv cxovixznv csdofinzkxc sodfinkzxl cfsdoinzxck  svocjnlwsk",
+                    "Introduction": "fsdoinasdfildskfm sdovjndsfldfk sdovnlzxkc sdfodflkdf sdfoknfd"
+                }
+            ]
+
+        }
+    ]
+}
